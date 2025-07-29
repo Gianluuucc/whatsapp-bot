@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-order-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp per ordini con Baileys e Altervista",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "axios": "^1.6.8"
+  }
+}
